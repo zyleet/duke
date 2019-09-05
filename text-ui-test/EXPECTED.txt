@@ -1,4 +1,4 @@
-Hello from
+﻿Hello from
  ____        _        
 |  _ \ _   _| | _____ 
 | | | | | | | |/ / _ \
@@ -10,18 +10,10 @@ Hello! I'm Duke
 What can I do for you?
 ____________________________________________________________
 Save detected. Here are your tasks from the previous session: 
-1.[D][✓] Test (by: 2 February 2019, 11:59 PM)
-2.[E][✓] Meeting (at: 3 December 2019, 12:56 PM)
-3.[D][✓] another homework (by: 5 June 2018, 01:34 AM)
-4.[E][✓] another meeting (at: 12 December 2019, 12:00 PM)
-5.[T][✘] Homework
-____________________________________________________________
-list
-____________________________________________________________
-Here are the tasks in your list:
-1.[D][✓] Test (by: 2 February 2019, 11:59 PM)
-2.[E][✓] Meeting (at: 3 December 2019, 12:56 PM)
-3.[D][✓] another homework (by: 5 June 2018, 01:34 AM)
-4.[E][✓] another meeting (at: 12 December 2019, 12:00 PM)
-5.[T][✘] Homework
+1.[D][Y] Test (by: 2 February 2019, 11:59 PM)
+2.[E][Y] Meeting (at: 3 December 2019, 12:56 PM)
+3.[E][Y] another meeting (at: 12 December 2019, 12:00 PM)
+4.[T][Y] Homework
+5.[T][Y] Another homework
+6.[T][Y] Work
 ____________________________________________________________
