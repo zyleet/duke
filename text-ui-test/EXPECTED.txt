@@ -17,3 +17,12 @@ Save detected. Here are your tasks from the previous session:
 5.[T][Y] Another homework
 6.[T][Y] Work
 ____________________________________________________________
+____________________________________________________________
+Here are the tasks in your list:
+1.[D][Y] Test (by: 2 February 2019, 11:59 PM)
+2.[E][Y] Meeting (at: 3 December 2019, 12:56 PM)
+3.[E][Y] another meeting (at: 12 December 2019, 12:00 PM)
+4.[T][Y] Homework
+5.[T][Y] Another homework
+6.[T][Y] Work
+____________________________________________________________
